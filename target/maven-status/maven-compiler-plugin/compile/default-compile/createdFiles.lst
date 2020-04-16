@@ -1,0 +1,6 @@
+com\registration\app\Client_Browser.class
+com\registration\app\App.class
+com\registration\app\RegistrationController.class
+com\registration\app\RegistrationDao.class
+com\registration\app\RegistrationService.class
+com\registration\app\Registration.class
