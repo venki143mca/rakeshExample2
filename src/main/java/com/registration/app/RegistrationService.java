@@ -1,3 +1,4 @@
+
 package com.registration.app;
 public class RegistrationService{
 	public void registration(Registration obj){
